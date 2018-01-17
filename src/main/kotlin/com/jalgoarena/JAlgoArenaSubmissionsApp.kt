@@ -1,8 +1,5 @@
 package com.jalgoarena
 
-import com.jalgoarena.web.CacheController
-import com.jalgoarena.web.RankingController
-import com.jalgoarena.web.SubmissionsController
 import org.springframework.boot.SpringApplication
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.cache.annotation.EnableCaching
